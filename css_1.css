@@ -406,8 +406,8 @@ a.button1:hover{
 
 /* visual break */
 .visual-image {
-  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-  background-image:url("../img/webdesign3.png");
+  /* for background */
+  background-image:url("https://iili.io/FwGOyN.png");
 
   /* Set a specific height */
   height: 70%;
